@@ -1,0 +1,11 @@
+D:\ITI\C #\labs\lab12-client_server\bin\Debug\lab12-client_server.exe.config
+D:\ITI\C #\labs\lab12-client_server\bin\Debug\lab12-client_server.exe
+D:\ITI\C #\labs\lab12-client_server\bin\Debug\lab12-client_server.pdb
+D:\ITI\C #\labs\lab12-client_server\obj\Debug\lab12-client_server.csproj.AssemblyReference.cache
+D:\ITI\C #\labs\lab12-client_server\obj\Debug\lab12-client_server.csproj.SuggestedBindingRedirects.cache
+D:\ITI\C #\labs\lab12-client_server\obj\Debug\lab12_client_server.Form1.resources
+D:\ITI\C #\labs\lab12-client_server\obj\Debug\lab12_client_server.Properties.Resources.resources
+D:\ITI\C #\labs\lab12-client_server\obj\Debug\lab12-client_server.csproj.GenerateResource.cache
+D:\ITI\C #\labs\lab12-client_server\obj\Debug\lab12-client_server.csproj.CoreCompileInputs.cache
+D:\ITI\C #\labs\lab12-client_server\obj\Debug\lab12-client_server.exe
+D:\ITI\C #\labs\lab12-client_server\obj\Debug\lab12-client_server.pdb
